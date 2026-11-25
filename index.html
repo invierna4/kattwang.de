@@ -71,7 +71,7 @@ body{-webkit-user-select:none;user-select:none}img{-webkit-user-drag:none;user-d
 .jump-inner a:nth-child(2){--mark:rgba(255,137,210,.62)}
 .jump-inner a:nth-child(3){--mark:rgba(94,235,221,.64)}
 .jump-inner a:nth-child(4){--mark:rgba(251,255,81,.68)}
-.jump-inner a:after{content:"↗";font-size:18px;line-height:1}
+.jump-inner a:after{content:"";display:block;flex:none;width:12px;height:12px;border-top:2px solid currentColor;border-right:2px solid currentColor;background:linear-gradient(135deg,transparent 45%,currentColor 46%,currentColor 54%,transparent 55%)}
 .jump-inner a:hover{color:var(--blue);background:transparent;filter:none}
 @media(max-width:900px){.hero .poster-main{left:12%;width:36%}.hero .poster-yellow{right:5%;width:20%}.jump-nav{right:5%;width:42%}}
 @media(max-width:580px){
@@ -85,7 +85,7 @@ body{-webkit-user-select:none;user-select:none}img{-webkit-user-drag:none;user-d
   .jump-nav{left:auto;right:13px;top:auto;bottom:105px;width:45%;border-top:3px solid var(--ink)}
   .jump-inner a,.jump-inner a:last-child{min-height:59px;padding:8px 4px;font-size:15px;line-height:1.15;border-bottom:2px solid var(--ink)}
   .jump-inner a:before{background:linear-gradient(transparent 34%,var(--mark) 34%,var(--mark) 82%,transparent 82%)}
-  .jump-inner a:after{font-size:16px}
+  .jump-inner a:after{width:11px;height:11px}
 }
 @media(max-width:360px){.hero{height:695px;min-height:695px}.hero .poster-main{top:115px;height:390px}.hero .poster-yellow{height:210px}.jump-nav{right:9px;bottom:100px;width:46%}.jump-inner a,.jump-inner a:last-child{font-size:13px;min-height:55px}.hero-name{font-size:22px}}
 </style>
