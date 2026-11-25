@@ -203,8 +203,10 @@ const CONTENT = {
       "items": [
         {
           "title": "INTERFACE anthropocene",
-          "subtitle": "a living network of art, data, locale, and ecology",
+          "subtitle": "a living ecology of art, data, and locale",
           "body": [
+            "humans have nationalities and border controls. disasters do not.",
+            "crises are not empty lands. somewhere, someone is living through.",
             [
               {
                 "text": "interface ",
@@ -212,13 +214,13 @@ const CONTENT = {
                 "bold": false
               },
               {
-                "text": "anthropocene is a concept for a network of interconnected art installations linking museums, public spaces, and commercial hubs across cities around the world.",
+                "text": "anthropocene is a concept for a network of interconnected art installations linking museums, public spaces, and commercial hubs around the world.",
                 "italic": false,
                 "bold": false
               }
             ],
-            "real-time environmental data flows between locations, feeding into interactive displays that respond to changing conditions and human presence. weather, expropriation, catastrophe, and other environmental signals become part of the artwork, constantly changing its visual language. visitors can interact with the installations individually or together, connecting people and places thousands of kilometres apart.",
-            "physical objects, digital information, and real-time interactions come together in a network of shared experiences and emotional engagement, turning environmental data into a living medium for global connection."
+            "real-time environmental data flows between locations, feeding into interactive displays that respond to changing conditions and human presence. weather, resource, energy, catastrophe, and other environmental signals become part of the artwork, constantly changing its visual language. visitors interact with the installations individually or together, connecting people and places thousands of kilometres apart.",
+            "physical objects, digital data, artistic intervention, and real-time interactions come together in a network of shared experiences and emotional engagement. an art project that brings environmental data and shared planetary pulse alive."
           ]
         },
         {
@@ -479,10 +481,12 @@ const CONTENT = {
         ],keywords:'Japanische moderne Kunst · Transkulturelle Moderne · Kriegskunst · Japan und Mexiko'}
       ]},
       {id:'curatorial',title:'Kuratorische Arbeiten',image:'hero-1.png',items:[
-        {title:'INTERFACE anthropocene',subtitle:'Ein lebendiges Netzwerk aus Kunst, Daten, Orten und Ökologie',body:[
-          'interface anthropocene ist ein Konzept für ein Netzwerk miteinander verbundener Kunstinstallationen, das Museen, öffentliche Räume und kommerzielle Zentren in Städten auf der ganzen Welt verknüpft.',
-          'Umweltdaten fließen in Echtzeit zwischen den Standorten und speisen interaktive Displays, die auf wechselnde Bedingungen und die Anwesenheit von Menschen reagieren. Wetter, Enteignung, Katastrophen und andere Umweltsignale werden Teil des Kunstwerks und verändern fortwährend seine Bildsprache. Besucherinnen und Besucher können einzeln oder gemeinsam mit den Installationen interagieren und Menschen und Orte über Tausende Kilometer hinweg verbinden.',
-          'Physische Objekte, digitale Informationen und Interaktionen in Echtzeit verbinden sich zu einem Netzwerk gemeinsamer Erfahrungen und emotionaler Beteiligung. So werden Umweltdaten zu einem lebendigen Medium globaler Verbindung.'
+        {title:'INTERFACE anthropocene',subtitle:'Eine lebendige Ökologie aus Kunst, Daten und Orten',body:[
+          'Menschen haben Nationalitäten und unterliegen Grenzkontrollen. Katastrophen nicht.',
+          'Krisen geschehen nicht in menschenleeren Gebieten. Irgendwo sind Menschen mittendrin.',
+          'interface anthropocene ist ein Konzept für ein Netzwerk miteinander verbundener Kunstinstallationen, das Museen, öffentliche Räume und kommerzielle Zentren auf der ganzen Welt verknüpft.',
+          'Umweltdaten fließen in Echtzeit zwischen den Standorten und speisen interaktive Displays, die auf wechselnde Bedingungen und die Anwesenheit von Menschen reagieren. Wetter, Ressourcen, Energie, Katastrophen und andere Umweltsignale werden Teil des Kunstwerks und verändern fortwährend seine Bildsprache. Besucherinnen und Besucher interagieren einzeln oder gemeinsam mit den Installationen und verbinden so Menschen und Orte über Tausende Kilometer hinweg.',
+          'Physische Objekte, digitale Daten, künstlerische Interventionen und Interaktionen in Echtzeit verbinden sich zu einem Netzwerk gemeinsamer Erfahrungen und emotionaler Beteiligung. Ein Kunstprojekt, das Umweltdaten und den gemeinsamen Puls unseres Planeten lebendig werden lässt.'
         ]},
         {title:'cyberpunk',subtitle:'Postmoderner Orientalismus und orientalische Postmoderne',body:[
           'Die Zukunft ist asiatisch. Zumindest wird sie uns so gezeigt.',
