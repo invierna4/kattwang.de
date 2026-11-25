@@ -182,12 +182,12 @@ const CONTENT = {
           "keywords": "postwar japanese art; realism; reportage painting; visual perception; art and politics"
         },
         {
-          "title": "the two portraits of Kitagawa Tamiji:",
+          "title": "the two portraits of kitagawa tamiji:",
           "subtitle": "art, identity, and war",
           "subtitleBold": true,
           "body": [
             "in 1933, two japanese artists met in mexico. one was fujita tsuguharu (1886-1969), a celebrated artist from paris. the other was kitagawa tamiji (1894-1989), who had spent years participating in the muralist movement, living and teaching art among local communities in post-revolutionary mexico. they shared a homeland, but had taken very different paths in art and life.",
-            "fujita painted kitagawa’s portrait during their encounter. four years later, he painted him again in japan in 1937. between these two portraits lies a story of two expatriate japanese artists and their different understandings of art that led them to part ways during wartime mobilisation and postwar practices.",
+            "fujita painted kitagawa’s portrait during their encounter. four years later, he painted him again in japan in 1937, before they parted ways again. one went to the front lines as a war artist, one to the countryside painting for the people. between these two portraits lies a story of two expatriate japanese artists and their different understandings of art and artist’s responsibility that led them to their choices during wartime mobilisation and postwar practices.",
             "what does it mean to be an artist? who is art for? and how do the places we go, the people we meet, and the times we live in shape our commitment?",
             "under the starlit sky of taxco, kitagawa admired fujita as an artist who would have sacrificed everything for art. his own wish was simpler: i just wished to be able to live fully like a human being."
           ],
@@ -471,9 +471,9 @@ const CONTENT = {
           'Gab Nakamura den Realismus auf, oder fand er neue Wege, die Wirklichkeit zu hinterfragen?',
           'Von der Reportagemalerei bis zu Bildern, die über bildliche Vermittlung und visuelle Wahrnehmung nachdenken, verfolgt diese Forschung, wie Nakamura den Realismus im Wandel von Politik, visueller Kultur und intellektuellen Überzeugungen im Japan der Nachkriegszeit neu durchdachte.'
         ],keywords:'Japanische Nachkriegskunst · Realismus · Reportagemalerei · Visuelle Wahrnehmung · Kunst und Politik'},
-        {title:'the two portraits of Kitagawa Tamiji:',subtitle:'Kunst, Identität und Krieg',subtitleBold:true,body:[
+        {title:'the two portraits of kitagawa tamiji:',subtitle:'Kunst, Identität und Krieg',subtitleBold:true,body:[
           '1933 begegneten sich zwei japanische Künstler in Mexiko. Der eine war Fujita Tsuguharu (1886-1969), ein gefeierter Künstler aus Paris. Der andere war Kitagawa Tamiji (1894-1989), der jahrelang an der Wandmalereibewegung teilgenommen und in lokalen Gemeinschaften des postrevolutionären Mexiko gelebt und Kunst unterrichtet hatte. Sie teilten ihre Herkunft, waren in Kunst und Leben aber sehr unterschiedliche Wege gegangen.',
-          'Fujita malte bei dieser Begegnung ein Porträt von Kitagawa. Vier Jahre später, 1937, porträtierte er ihn erneut in Japan. Zwischen den beiden Bildern entfaltet sich die Geschichte zweier im Ausland lebender japanischer Künstler, deren unterschiedliche Auffassungen von Kunst sie während der Mobilisierung für den Krieg und in der Nachkriegszeit auseinanderführten.',
+          'Fujita malte bei dieser Begegnung ein Porträt von Kitagawa. Vier Jahre später, 1937, porträtierte er ihn erneut in Japan, bevor sich ihre Wege wieder trennten. Der eine ging als Kriegsmaler an die Front, der andere aufs Land, um für die Menschen zu malen. Zwischen diesen beiden Porträts liegt die Geschichte zweier im Ausland lebender japanischer Künstler, deren unterschiedliche Vorstellungen von Kunst und der Verantwortung des Künstlers ihre Entscheidungen während der Mobilisierung für den Krieg und in der Nachkriegszeit prägten.',
           'Was bedeutet es, Künstler zu sein? Für wen ist Kunst da? Und wie prägen die Orte, an die wir gehen, die Menschen, denen wir begegnen, und die Zeiten, in denen wir leben, unser Engagement?',
           'Unter dem Sternenhimmel von Taxco bewunderte Kitagawa Fujita als Künstler, der für die Kunst alles geopfert hätte. Sein eigener Wunsch war einfacher: Ich wollte nur als Mensch ganz leben können.'
         ],keywords:'Japanische moderne Kunst · Transkulturelle Moderne · Kriegskunst · Japan und Mexiko'}
