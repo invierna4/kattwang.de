@@ -422,6 +422,7 @@ const CONTENT = {
       "i spend much time thinking about images and people, the ways they connect and make meaning. i’m fascinated by how ideas and visual forms travel, how our minds are shaped by what we see, how art and creativity pose questions, create value, break rules, and change the world.",
       "i’m interested in what happens when art moves beyond its usual spaces and contexts, when audiences become participants, consumers become producers, and new technologies transform how we see, experience, and engage with the world and each other.",
       "i work across academia, museums, international organisations, and creative businesses, producing exhibitions, developing cultural projects, running marketing campaigns, building creative partnerships, and pursuing experiments that refuse to stay in one discipline.",
+      "in a world where anyone can create anything, the hardest and most crucial thing is knowing what people need.",
       "i like productive questions, unexpected connections, and ideas that actually go somewhere.",
       [
         {
@@ -522,6 +523,7 @@ const CONTENT = {
       'ich denke viel über bilder und menschen nach und darüber, wie sie sich verbinden und bedeutung schaffen. mich fasziniert, wie ideen und visuelle formen reisen, wie das, was wir sehen, unser denken prägt und wie kunst und kreativität fragen stellen, werte schaffen, regeln brechen und die welt verändern.',
       'mich interessiert, was geschieht, wenn kunst ihre gewohnten räume und kontexte verlässt, wenn das publikum beteiligt wird und aus konsumierenden produzierende werden und neue technologien verändern, wie wir die welt und einander sehen, erleben und mit ihr in beziehung treten.',
       'ich arbeite in wissenschaft, museen, internationalen organisationen und kreativen unternehmen: ich entwickle ausstellungen und kulturprojekte, gestalte marketingkampagnen, baue kreative partnerschaften auf und verfolge experimente, die nicht in einer einzigen disziplin bleiben.',
+      'in einer welt, in der alle alles erschaffen können, ist es am schwierigsten und zugleich am wichtigsten zu erkennen, was die menschen brauchen.',
       'ich mag produktive fragen, unerwartete verbindungen und ideen, aus denen tatsächlich etwas wird.',
       'neugierig bleiben. offen für neue ideen, zusammenarbeit und abenteuer.'
     ]},
